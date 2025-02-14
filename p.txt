@@ -1,17 +1,1 @@
-const firebaseConfig = {
 
-  apiKey: "AIzaSyA51W9rRXOg3rjcIXVRPmz5ajJJXXP48L8",
-
-  authDomain: "dev-typeflow.firebaseapp.com",
-
-  projectId: "dev-typeflow",
-
-  storageBucket: "dev-typeflow.appspot.com",
-
-  messagingSenderId: "467736341058",
-
-  appId: "1:467736341058:web:13dade067f6e0fc5e6dbdb",
-
-  measurementId: "G-MDF38SDCHJ"
-
-};
